@@ -1,5 +1,6 @@
 import os
 import joblib
+import pandas as pd
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
@@ -16,6 +17,7 @@ if not os.path.exists(model_path):
 try:
     model = joblib.load(model_path)
     print("✅ Model loaded successfully!")
+    print(f"🔍 Model expects {model.n_features_in_} features.")
 except Exception as e:
     print(f"❌ Error loading model: {e}")
     model = None  # Prevent crashes if model loading fails
@@ -24,10 +26,11 @@ except Exception as e:
 def home():
     return jsonify({"message": "Welcome to the Packing Prediction API!"})
 
+# ✅ Rename function to avoid conflict
 @app.route("/predict", methods=["POST"])
-def predict():
+def predict_material():
     if model is None:
-        return jsonify({"error": "Model is not loaded properly."}), 500  # ✅ Return a proper HTTP error code
+        return jsonify({"error": "Model is not loaded properly."}), 500
 
     try:
         data = request.get_json()
@@ -38,14 +41,23 @@ def predict():
         if not all(field in data for field in required_fields):
             return jsonify({"error": f"Missing required fields: {required_fields}"}), 400
 
-        # ✅ Ensure input is in the right format
-        features = [[data["weight"], data["length"], data["width"], data["height"]]]
+        # ✅ Compute Volume
+        volume = data["length"] * data["width"] * data["height"]
+
+        # ✅ Ensure input matches model's expected feature count
+        if model.n_features_in_ == 5:
+            features = [[data["weight"], data["length"], data["width"], data["height"], volume]]
+        elif model.n_features_in_ == 4:
+            features = [[data["weight"], data["length"], data["width"], data["height"]]]
+        else:
+            return jsonify({"error": f"Unexpected number of features: {model.n_features_in_}"}), 500
+
         prediction = model.predict(features)[0]
 
         return jsonify({"prediction": prediction})
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500  # ✅ Proper HTTP error code
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(debug=True)

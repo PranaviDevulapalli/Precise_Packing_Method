@@ -29,13 +29,14 @@ except requests.exceptions.RequestException:
 
 if st.button("🔍 Predict Packaging Material"):
     if weight and length and width and height:
+        volume = length * width * height  # ✅ Compute volume
+        
         payload = {
             "weight": weight,
             "length": length,
             "width": width,
             "height": height,
-           
-            
+            "volume": volume,  # ✅ Add volume to the request
         }
 
         with st.spinner("Predicting..."):
@@ -45,6 +46,6 @@ if st.button("🔍 Predict Packaging Material"):
             prediction = response.json().get("prediction", "Error")
             st.success(f"🧠 Recommended Packaging: **{prediction}**")
         else:
-            st.error("❌ API Error. Please check inputs or server.")
+            st.error(f"❌ API Error: {response.text}")
     else:
         st.warning("Please fill all input fields.")
