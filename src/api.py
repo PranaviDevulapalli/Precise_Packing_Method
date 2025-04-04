@@ -12,8 +12,19 @@ from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 
-# Load trained model
-model = joblib.load("F:/SaiU/semester 4/Sri/models/packing_model.pkl")
+import joblib
+import os
+
+# Correct path for Render deployment
+model_path = os.path.join(os.path.dirname(__file__), "models\packing_model.pkl")
+
+# Load the model
+try:
+    model = joblib.load(model_path)
+    print("Model loaded successfully!")
+except FileNotFoundError:
+    print(f"Error: Model file not found at {model_path}")
+
 
 # Initialize Flask app
 app = Flask(__name__)
