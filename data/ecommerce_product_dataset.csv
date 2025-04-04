@@ -1,0 +1,1001 @@
+Length (cm),Breadth (cm),Height (cm),Weight (kg),Expiry Date,Material Properties,Storage Requirements
+41.21,77.32,114.74,31.23,2025-10-29,Cotton,Refrigerated
+41.38,86.73,76.12,8.56,2026-07-15,Metal,Cool & Dry Place
+49.15,95.04,134.75,1.25,2025-10-24,Rubber,Cool & Dry Place
+68.16,89.65,123.38,35.43,N/A,Metal,Away from Sunlight
+82.42,78.86,82.26,49.32,N/A,Metal,Freeze
+10.69,93.43,135.77,5.47,2026-03-24,Leather,Dry Place
+28.0,39.68,186.42,14.79,N/A,Paper,Dry Place
+81.45,17.48,57.2,24.99,N/A,Paper,Freeze
+13.96,61.25,130.11,39.25,N/A,Glass,Room Temperature
+13.96,95.14,134.57,16.97,2026-12-21,Paper,Cool & Dry Place
+41.35,38.2,62.12,5.66,N/A,Wood,Refrigerated
+54.15,90.61,186.77,13.27,N/A,Paper,Room Temperature
+20.07,98.54,126.21,16.53,N/A,Wood,Away from Sunlight
+90.97,37.03,123.73,37.59,N/A,Metal,Cool & Dry Place
+49.65,45.08,135.42,47.12,2026-03-25,Leather,Dry Place
+68.85,30.76,115.63,44.83,2025-11-27,Cotton,Freeze
+84.42,5.69,108.7,10.82,N/A,Plastic,Room Temperature
+8.24,97.09,91.11,42.89,2026-05-08,Metal,Away from Sunlight
+39.21,88.18,94.86,45.91,2026-02-07,Ceramic,Refrigerated
+5.41,28.4,24.55,8.24,N/A,Silk,Away from Sunlight
+95.23,39.94,127.15,8.66,2026-05-20,Leather,Freeze
+45.13,18.59,160.28,1.55,N/A,Glass,Away from Sunlight
+54.06,41.78,31.03,43.09,N/A,Glass,Room Temperature
+8.64,60.06,146.51,23.65,N/A,Plastic,Freeze
+60.86,62.81,170.16,9.25,2026-06-07,Metal,Freeze
+96.65,22.43,162.77,0.56,2025-10-17,Rubber,Dry Place
+42.91,18.02,130.2,8.13,N/A,Plastic,Freeze
+85.9,93.07,128.37,7.35,2026-01-28,Paper,Freeze
+7.62,46.5,62.78,16.23,N/A,Silk,Refrigerated
+96.38,21.32,173.1,19.2,N/A,Rubber,Cool & Dry Place
+72.18,53.9,167.23,26.85,2025-08-30,Wood,Dry Place
+18.22,51.49,162.75,6.11,N/A,Rubber,Room Temperature
+60.6,38.08,127.94,0.4,N/A,Plastic,Freeze
+98.69,46.78,23.13,3.05,2026-02-22,Cotton,Refrigerated
+21.2,99.84,131.7,20.69,N/A,Leather,Freeze
+52.63,34.28,66.07,20.67,N/A,Leather,Freeze
+51.03,61.01,93.89,40.19,N/A,Plastic,Away from Sunlight
+46.11,52.38,7.75,16.89,2025-08-10,Plastic,Dry Place
+70.82,80.31,65.55,22.14,N/A,Silk,Cool & Dry Place
+60.98,80.24,139.22,34.41,N/A,Metal,Dry Place
+38.11,26.36,96.81,41.38,2026-07-28,Metal,Dry Place
+54.33,95.36,134.77,15.07,2025-09-28,Wood,Freeze
+93.22,86.05,168.24,8.51,N/A,Wood,Cool & Dry Place
+41.04,54.75,13.86,25.6,N/A,Glass,Freeze
+47.38,42.54,8.46,47.02,2026-12-16,Cotton,Away from Sunlight
+12.18,50.19,62.25,17.34,2026-09-22,Leather,Freeze
+48.7,30.73,72.92,26.75,N/A,Silk,Away from Sunlight
+12.96,35.51,158.67,16.73,N/A,Glass,Cool & Dry Place
+90.3,77.73,135.95,6.18,N/A,Metal,Dry Place
+86.66,6.03,189.11,35.71,2026-04-11,Ceramic,Dry Place
+88.85,82.84,66.71,40.07,2027-04-01,Glass,Refrigerated
+80.15,81.92,154.03,20.92,2025-06-17,Glass,Cool & Dry Place
+83.83,30.82,199.37,42.77,2026-04-14,Wood,Dry Place
+42.77,10.31,139.44,17.36,2026-09-22,Rubber,Dry Place
+50.09,65.09,155.88,30.28,N/A,Rubber,Freeze
+60.51,12.91,56.95,29.69,2026-02-27,Rubber,Cool & Dry Place
+58.79,20.84,190.5,32.74,N/A,Silk,Refrigerated
+13.82,82.44,24.58,45.96,N/A,Leather,Refrigerated
+96.91,78.62,83.26,9.83,2026-04-10,Metal,Room Temperature
+71.37,79.77,135.89,6.79,2027-03-22,Silk,Freeze
+10.86,82.01,72.7,7.3,2026-12-21,Glass,Refrigerated
+71.18,49.61,179.93,19.01,N/A,Metal,Dry Place
+67.41,39.57,87.8,17.3,2025-12-29,Metal,Freeze
+99.15,44.13,106.99,16.16,2026-02-04,Silk,Dry Place
+65.3,72.95,121.22,42.0,N/A,Silk,Away from Sunlight
+34.82,69.1,60.14,15.34,2025-11-07,Wood,Refrigerated
+54.58,25.01,124.03,19.91,2026-09-28,Cotton,Away from Sunlight
+95.02,21.88,74.98,13.52,2026-03-22,Leather,Room Temperature
+67.13,10.07,193.26,47.08,2026-08-15,Silk,Room Temperature
+41.59,22.23,172.34,4.51,2026-09-27,Paper,Freeze
+55.17,89.87,69.06,48.6,2026-12-09,Paper,Freeze
+49.35,25.17,95.79,25.52,2025-08-05,Leather,Freeze
+26.2,96.97,67.8,11.73,2026-05-09,Leather,Dry Place
+19.54,65.95,44.76,8.64,N/A,Plastic,Cool & Dry Place
+19.18,62.62,112.04,9.96,N/A,Plastic,Freeze
+44.06,84.9,196.47,3.13,2026-04-11,Ceramic,Freeze
+20.52,86.81,91.64,9.04,2026-10-11,Cotton,Cool & Dry Place
+52.04,74.12,43.76,36.16,2025-05-30,Glass,Freeze
+26.5,16.97,195.63,44.22,N/A,Glass,Cool & Dry Place
+57.92,8.96,125.06,38.82,2026-03-15,Glass,Away from Sunlight
+77.5,89.46,126.13,18.09,2027-03-18,Wood,Room Temperature
+68.46,92.57,166.9,7.39,N/A,Wood,Freeze
+31.77,92.96,63.47,15.32,2026-01-12,Ceramic,Room Temperature
+39.14,35.43,172.53,14.94,2026-06-19,Leather,Cool & Dry Place
+76.65,62.0,89.67,18.81,2025-06-13,Plastic,Room Temperature
+45.86,93.63,31.9,10.82,2026-04-07,Leather,Room Temperature
+65.05,14.71,162.75,3.45,N/A,Paper,Refrigerated
+77.75,63.68,190.33,1.74,2025-11-03,Cotton,Refrigerated
+27.9,45.18,138.86,11.13,N/A,Wood,Freeze
+17.1,68.87,171.07,44.78,N/A,Paper,Freeze
+25.8,38.07,196.32,17.37,2026-09-19,Wood,Cool & Dry Place
+81.81,19.21,120.55,35.57,2025-12-16,Plastic,Cool & Dry Place
+64.48,70.3,30.25,17.6,N/A,Leather,Freeze
+41.61,5.55,53.85,3.43,N/A,Ceramic,Freeze
+61.33,85.54,47.78,1.11,2027-02-25,Cotton,Away from Sunlight
+24.77,88.74,112.69,12.33,N/A,Wood,Away from Sunlight
+48.56,51.44,62.0,16.9,N/A,Metal,Room Temperature
+7.58,15.97,136.26,39.89,N/A,Plastic,Refrigerated
+75.66,85.77,142.37,34.87,N/A,Cotton,Freeze
+68.3,38.42,197.82,24.81,2026-03-23,Plastic,Cool & Dry Place
+85.18,40.31,14.99,36.27,2025-08-13,Wood,Room Temperature
+76.43,19.85,94.05,40.17,2027-03-20,Cotton,Refrigerated
+44.51,44.53,9.11,23.1,N/A,Paper,Cool & Dry Place
+87.44,42.95,175.55,42.33,2025-05-28,Leather,Away from Sunlight
+91.48,30.4,85.37,30.14,2025-08-31,Rubber,Room Temperature
+44.61,72.6,115.12,42.96,N/A,Paper,Freeze
+53.76,41.58,22.66,15.07,2027-01-03,Plastic,Dry Place
+62.79,20.33,163.99,49.33,2026-08-11,Glass,Freeze
+64.67,77.7,24.39,26.96,2026-12-30,Plastic,Dry Place
+27.3,92.66,50.55,26.22,2027-03-15,Ceramic,Away from Sunlight
+12.15,17.82,71.32,1.2,N/A,Silk,Refrigerated
+98.01,37.44,21.01,3.64,N/A,Plastic,Room Temperature
+24.11,40.39,163.8,9.62,N/A,Metal,Freeze
+13.15,70.86,44.23,22.71,N/A,Plastic,Cool & Dry Place
+54.06,65.46,72.55,40.53,N/A,Wood,Dry Place
+10.24,10.92,159.95,31.84,N/A,Metal,Cool & Dry Place
+47.98,76.4,183.9,4.39,2025-08-29,Paper,Cool & Dry Place
+86.24,98.73,163.44,18.09,N/A,Paper,Freeze
+41.88,17.3,31.05,38.34,N/A,Metal,Freeze
+37.03,78.54,118.17,21.84,2026-12-14,Leather,Freeze
+91.74,71.73,40.3,0.35,N/A,Cotton,Refrigerated
+38.65,51.65,63.81,32.3,N/A,Cotton,Cool & Dry Place
+80.18,42.86,40.09,28.8,N/A,Leather,Dry Place
+56.49,72.02,28.6,18.08,N/A,Leather,Away from Sunlight
+64.27,53.98,77.63,32.81,2027-01-08,Rubber,Cool & Dry Place
+19.36,16.98,155.58,23.87,2026-09-17,Glass,Dry Place
+19.69,68.13,120.75,41.86,N/A,Leather,Refrigerated
+38.63,74.38,117.82,23.12,N/A,Plastic,Dry Place
+76.42,66.83,80.23,23.07,N/A,Rubber,Dry Place
+13.67,72.22,55.33,20.79,2025-09-05,Plastic,Refrigerated
+54.42,15.65,20.74,23.84,N/A,Plastic,Dry Place
+40.82,46.33,50.87,24.17,N/A,Silk,Refrigerated
+50.97,31.67,59.03,23.19,N/A,Plastic,Dry Place
+40.94,98.05,121.48,13.08,N/A,Leather,Away from Sunlight
+73.97,70.81,43.6,27.54,N/A,Cotton,Away from Sunlight
+79.26,93.48,158.0,16.88,2027-01-06,Cotton,Refrigerated
+71.74,9.67,67.19,25.04,2026-01-07,Wood,Dry Place
+88.66,40.46,11.1,31.57,N/A,Cotton,Away from Sunlight
+32.9,44.03,109.8,5.46,N/A,Ceramic,Refrigerated
+78.65,43.45,194.67,42.37,2026-06-19,Leather,Away from Sunlight
+44.17,6.77,118.37,29.42,2026-02-20,Paper,Cool & Dry Place
+77.97,98.77,182.57,48.73,2026-07-29,Ceramic,Away from Sunlight
+88.49,20.67,121.85,38.87,2027-01-01,Silk,Room Temperature
+72.55,57.8,174.48,46.13,N/A,Rubber,Room Temperature
+11.94,68.87,57.6,40.64,N/A,Paper,Freeze
+97.22,60.38,59.56,3.56,2026-02-18,Silk,Cool & Dry Place
+44.44,12.06,140.91,40.86,2025-08-25,Glass,Freeze
+56.96,47.03,130.59,42.55,2025-10-16,Plastic,Freeze
+13.92,57.13,112.03,41.97,N/A,Leather,Freeze
+7.21,82.56,144.78,9.7,2026-12-08,Silk,Freeze
+10.44,66.6,6.71,16.17,N/A,Glass,Cool & Dry Place
+98.76,31.17,78.62,17.56,N/A,Silk,Room Temperature
+86.94,53.65,39.94,36.83,2026-01-16,Cotton,Away from Sunlight
+47.12,69.37,137.34,12.4,N/A,Wood,Refrigerated
+32.8,18.33,189.52,18.51,N/A,Cotton,Cool & Dry Place
+51.48,27.39,165.07,11.82,N/A,Rubber,Cool & Dry Place
+91.83,67.2,23.79,12.45,2025-07-31,Paper,Away from Sunlight
+80.33,92.0,30.1,3.46,2026-09-15,Wood,Dry Place
+69.77,71.49,137.57,24.48,N/A,Cotton,Dry Place
+88.23,80.87,92.95,16.68,N/A,Wood,Cool & Dry Place
+42.16,31.2,162.86,30.32,2026-09-01,Silk,Freeze
+34.63,15.52,173.22,15.66,2027-02-26,Rubber,Cool & Dry Place
+29.51,46.65,161.17,9.69,N/A,Ceramic,Refrigerated
+37.04,28.0,6.11,23.87,N/A,Plastic,Room Temperature
+36.31,54.45,116.3,41.9,2026-01-26,Paper,Cool & Dry Place
+20.13,87.95,192.17,24.03,2026-02-18,Paper,Freeze
+32.09,17.11,124.78,27.47,N/A,Silk,Away from Sunlight
+70.07,45.34,171.7,36.76,2027-01-14,Paper,Away from Sunlight
+89.35,42.23,136.49,42.34,N/A,Cotton,Room Temperature
+62.73,46.47,82.39,0.14,N/A,Metal,Room Temperature
+21.7,8.14,87.27,47.33,2026-12-13,Plastic,Cool & Dry Place
+15.31,61.76,26.68,4.0,2026-02-21,Metal,Room Temperature
+34.56,43.13,7.37,14.37,N/A,Ceramic,Room Temperature
+30.43,16.16,121.09,24.31,N/A,Cotton,Dry Place
+10.49,15.07,13.43,18.32,N/A,Cotton,Dry Place
+65.7,42.47,130.02,44.98,2025-08-25,Rubber,Refrigerated
+25.92,79.36,42.97,25.56,N/A,Wood,Room Temperature
+14.12,95.01,140.35,2.7,N/A,Leather,Cool & Dry Place
+11.23,56.25,56.3,28.7,2026-11-29,Rubber,Room Temperature
+14.39,12.17,29.61,18.54,2026-12-01,Glass,Away from Sunlight
+88.93,58.49,79.93,44.72,N/A,Cotton,Cool & Dry Place
+15.09,50.35,117.09,24.38,N/A,Glass,Dry Place
+18.54,68.47,138.86,44.52,N/A,Paper,Dry Place
+61.68,83.56,147.7,37.14,N/A,Cotton,Refrigerated
+53.81,18.36,190.58,6.62,N/A,Metal,Room Temperature
+33.87,99.17,99.73,23.2,2025-11-28,Wood,Room Temperature
+45.92,66.03,150.4,39.72,N/A,Metal,Dry Place
+44.78,77.67,65.16,5.52,N/A,Rubber,Away from Sunlight
+6.29,76.27,173.88,38.25,2025-09-16,Wood,Freeze
+70.13,34.32,37.43,7.29,N/A,Metal,Dry Place
+23.31,90.18,33.21,6.76,N/A,Plastic,Cool & Dry Place
+75.0,85.78,133.97,11.58,N/A,Wood,Freeze
+78.77,11.97,36.28,46.89,2026-06-14,Plastic,Room Temperature
+72.85,32.55,195.15,22.27,2026-06-19,Leather,Dry Place
+14.61,85.16,84.37,30.58,N/A,Rubber,Dry Place
+28.81,67.15,87.7,40.51,2026-03-28,Cotton,Away from Sunlight
+60.21,74.49,168.59,8.16,2025-06-24,Rubber,Room Temperature
+72.88,27.86,70.95,14.65,N/A,Cotton,Room Temperature
+52.33,92.84,61.36,4.71,N/A,Rubber,Away from Sunlight
+86.2,28.77,111.14,19.5,N/A,Wood,Away from Sunlight
+99.68,79.25,180.79,30.01,2027-01-31,Wood,Refrigerated
+76.76,85.58,69.9,14.54,2026-07-02,Rubber,Room Temperature
+56.1,94.67,69.05,7.6,2026-11-08,Cotton,Room Temperature
+51.03,75.41,51.54,39.25,2025-10-18,Glass,Dry Place
+63.77,96.22,176.33,48.71,2026-07-02,Cotton,Away from Sunlight
+82.97,62.1,132.93,15.19,2026-06-29,Glass,Refrigerated
+66.97,77.11,82.13,48.6,2025-08-29,Paper,Dry Place
+35.0,72.5,91.12,45.36,2026-05-27,Ceramic,Room Temperature
+38.39,32.95,64.22,15.86,N/A,Wood,Away from Sunlight
+15.64,11.45,66.93,28.29,N/A,Silk,Refrigerated
+57.82,99.92,148.46,8.13,N/A,Plastic,Dry Place
+10.97,98.2,151.97,9.7,N/A,Silk,Refrigerated
+88.21,7.24,8.52,1.02,N/A,Rubber,Dry Place
+56.5,23.89,83.62,33.96,2025-11-01,Metal,Refrigerated
+21.56,87.83,68.39,16.76,N/A,Wood,Freeze
+85.44,57.92,106.47,48.17,N/A,Ceramic,Away from Sunlight
+37.61,69.34,70.76,43.02,N/A,Plastic,Refrigerated
+56.47,22.59,42.11,35.03,2026-03-22,Wood,Room Temperature
+8.99,28.3,196.71,16.05,N/A,Cotton,Cool & Dry Place
+94.73,27.42,184.92,30.95,N/A,Leather,Freeze
+55.86,75.55,93.02,42.15,N/A,Cotton,Dry Place
+6.61,88.33,108.36,28.66,N/A,Rubber,Dry Place
+30.62,54.78,52.19,43.82,2026-08-22,Silk,Dry Place
+83.35,7.49,121.56,33.92,N/A,Plastic,Dry Place
+50.33,57.73,69.32,36.16,2025-08-25,Wood,Cool & Dry Place
+31.21,62.64,159.59,15.61,N/A,Rubber,Away from Sunlight
+73.25,8.06,124.39,35.36,2026-12-27,Metal,Refrigerated
+60.08,59.08,194.3,39.56,2025-09-09,Wood,Dry Place
+19.45,67.03,43.42,10.7,2025-06-02,Wood,Freeze
+64.82,25.39,32.29,33.42,2025-08-22,Glass,Refrigerated
+26.5,29.81,55.68,13.31,N/A,Metal,Refrigerated
+89.43,57.83,80.9,16.7,2026-10-26,Ceramic,Room Temperature
+54.92,23.6,57.37,3.53,N/A,Wood,Freeze
+14.31,7.5,77.43,38.6,N/A,Ceramic,Cool & Dry Place
+48.25,42.23,85.6,24.46,N/A,Cotton,Away from Sunlight
+16.34,62.29,6.81,8.21,N/A,Paper,Dry Place
+67.79,20.66,130.03,16.67,N/A,Wood,Dry Place
+54.6,71.01,5.13,40.24,N/A,Metal,Cool & Dry Place
+24.89,5.99,78.15,2.12,N/A,Silk,Away from Sunlight
+51.44,6.27,56.96,14.8,N/A,Rubber,Freeze
+14.8,59.35,52.6,1.83,N/A,Metal,Refrigerated
+76.71,61.71,21.39,48.76,2026-08-30,Leather,Refrigerated
+79.96,36.02,20.71,38.05,2025-05-25,Rubber,Dry Place
+44.32,16.16,66.92,2.77,2025-12-26,Rubber,Room Temperature
+78.93,59.59,76.94,26.41,2025-07-13,Paper,Away from Sunlight
+81.78,94.3,38.4,38.82,2025-11-30,Rubber,Refrigerated
+43.16,75.31,174.12,34.92,N/A,Plastic,Cool & Dry Place
+55.3,71.59,152.43,12.76,2025-10-04,Silk,Room Temperature
+79.83,80.53,74.47,6.36,2026-01-08,Ceramic,Cool & Dry Place
+13.04,47.24,91.42,18.14,N/A,Ceramic,Cool & Dry Place
+22.57,62.23,70.43,15.18,2026-06-06,Silk,Freeze
+55.19,77.75,106.66,37.65,N/A,Metal,Away from Sunlight
+29.49,18.6,24.51,2.76,2027-02-19,Ceramic,Cool & Dry Place
+70.27,36.11,176.53,3.24,N/A,Cotton,Freeze
+68.1,56.02,191.74,0.67,N/A,Rubber,Cool & Dry Place
+89.68,6.06,151.79,27.11,N/A,Plastic,Room Temperature
+74.45,84.18,18.22,0.32,N/A,Metal,Refrigerated
+90.28,77.31,85.26,30.19,2025-10-18,Cotton,Room Temperature
+25.37,91.81,26.93,40.71,2026-02-20,Plastic,Room Temperature
+93.83,69.22,90.79,5.46,N/A,Glass,Refrigerated
+19.9,63.34,141.19,17.56,N/A,Plastic,Dry Place
+29.71,51.05,127.43,12.55,2025-12-09,Wood,Cool & Dry Place
+97.41,39.24,38.5,44.66,N/A,Paper,Cool & Dry Place
+26.32,7.75,24.49,7.14,N/A,Silk,Away from Sunlight
+95.65,57.16,69.98,33.21,N/A,Leather,Cool & Dry Place
+10.53,59.33,155.79,42.93,N/A,Metal,Away from Sunlight
+87.64,67.28,168.41,19.83,2027-03-14,Wood,Freeze
+7.48,90.82,198.43,7.21,2026-10-21,Rubber,Refrigerated
+41.18,98.25,95.35,8.9,2026-11-27,Glass,Freeze
+9.92,67.44,166.97,6.52,N/A,Wood,Refrigerated
+84.96,28.32,102.15,5.11,N/A,Wood,Freeze
+51.59,31.73,144.07,9.21,N/A,Ceramic,Away from Sunlight
+89.53,82.69,6.97,49.22,2025-11-28,Paper,Freeze
+55.71,70.76,60.68,38.97,N/A,Rubber,Room Temperature
+53.07,78.47,73.6,48.79,N/A,Metal,Away from Sunlight
+66.38,8.53,70.92,5.9,N/A,Plastic,Dry Place
+62.03,39.66,84.9,3.98,N/A,Metal,Dry Place
+96.07,21.92,10.83,22.01,2026-11-20,Wood,Refrigerated
+29.7,18.16,130.85,3.77,2025-07-28,Leather,Cool & Dry Place
+50.27,52.66,118.31,29.51,N/A,Glass,Freeze
+64.62,68.82,64.69,14.22,N/A,Silk,Room Temperature
+14.94,65.44,99.96,13.12,2026-11-28,Paper,Dry Place
+76.75,7.4,191.4,49.75,2027-04-03,Cotton,Away from Sunlight
+7.96,71.71,97.36,18.1,N/A,Wood,Refrigerated
+12.97,15.21,74.11,11.69,2027-03-23,Paper,Away from Sunlight
+16.85,36.76,173.35,9.23,2026-07-25,Ceramic,Away from Sunlight
+77.72,90.55,134.83,17.15,N/A,Leather,Refrigerated
+54.3,36.63,176.35,20.07,2025-12-15,Rubber,Room Temperature
+94.77,66.0,36.32,29.11,N/A,Metal,Dry Place
+94.18,84.74,190.13,18.15,N/A,Ceramic,Freeze
+87.79,82.37,113.06,9.26,2026-02-13,Glass,Dry Place
+96.0,99.66,6.3,38.56,N/A,Ceramic,Refrigerated
+97.47,11.11,69.53,25.47,N/A,Ceramic,Cool & Dry Place
+32.47,89.23,15.45,15.47,2025-11-10,Metal,Dry Place
+67.57,32.51,27.74,31.54,2027-01-14,Silk,Cool & Dry Place
+9.45,82.73,143.37,28.06,N/A,Plastic,Cool & Dry Place
+91.25,75.64,136.04,45.57,2025-08-30,Silk,Freeze
+49.27,20.51,34.95,30.66,N/A,Plastic,Freeze
+32.5,98.7,115.71,34.11,N/A,Ceramic,Room Temperature
+64.08,38.99,127.5,9.46,2027-01-25,Ceramic,Room Temperature
+66.63,83.51,23.79,26.63,2026-05-15,Leather,Room Temperature
+84.36,41.7,6.99,36.86,2026-11-19,Metal,Dry Place
+23.59,50.27,148.35,29.73,2025-12-29,Rubber,Dry Place
+29.19,11.07,137.09,46.85,2025-11-14,Plastic,Dry Place
+47.97,58.61,131.58,3.71,2026-04-08,Plastic,Room Temperature
+92.7,53.31,115.26,34.45,N/A,Leather,Dry Place
+24.27,94.94,179.76,13.74,2025-06-11,Silk,Dry Place
+30.88,66.14,117.07,14.95,2026-10-15,Wood,Dry Place
+94.53,62.83,146.88,5.92,2026-12-24,Glass,Room Temperature
+7.06,79.29,189.99,0.36,2026-11-28,Ceramic,Dry Place
+79.59,11.84,41.25,6.73,N/A,Cotton,Away from Sunlight
+53.65,51.61,71.87,1.21,2025-11-01,Cotton,Freeze
+25.97,38.15,115.01,11.01,2026-12-01,Silk,Freeze
+45.61,16.01,98.61,15.8,N/A,Rubber,Room Temperature
+82.18,86.89,44.21,33.52,N/A,Leather,Refrigerated
+27.59,8.37,29.6,36.08,N/A,Leather,Freeze
+95.9,35.06,26.72,32.88,2027-01-15,Metal,Dry Place
+53.61,99.12,87.7,24.6,N/A,Metal,Cool & Dry Place
+98.91,90.26,93.27,25.89,2027-04-03,Cotton,Freeze
+47.26,38.38,35.75,16.53,N/A,Metal,Away from Sunlight
+97.46,58.95,23.62,28.54,2026-02-09,Rubber,Room Temperature
+55.29,25.31,5.98,34.53,2026-07-16,Ceramic,Cool & Dry Place
+66.62,99.23,119.53,35.41,2025-12-29,Paper,Refrigerated
+19.02,29.14,149.92,11.7,2025-09-11,Leather,Room Temperature
+26.46,45.37,45.55,48.76,N/A,Paper,Cool & Dry Place
+56.09,33.1,195.17,4.64,2026-11-02,Plastic,Cool & Dry Place
+71.99,64.26,51.19,12.08,2025-09-13,Rubber,Refrigerated
+63.02,51.49,184.7,20.16,N/A,Metal,Refrigerated
+93.65,17.21,12.66,9.98,2026-09-27,Ceramic,Room Temperature
+73.5,20.88,131.81,39.9,N/A,Cotton,Refrigerated
+62.02,13.54,149.72,38.24,2026-09-03,Wood,Refrigerated
+37.25,57.2,106.32,0.6,2025-08-22,Paper,Cool & Dry Place
+13.48,18.15,97.08,44.45,2026-10-09,Wood,Refrigerated
+14.84,74.63,6.21,4.62,N/A,Metal,Room Temperature
+12.91,15.47,105.26,12.2,2026-04-22,Paper,Refrigerated
+95.33,20.55,16.98,13.49,2026-01-04,Cotton,Dry Place
+57.92,94.4,147.03,24.51,2026-10-05,Paper,Away from Sunlight
+15.72,60.28,91.49,0.7,N/A,Silk,Room Temperature
+41.11,36.86,25.24,41.11,2026-05-27,Paper,Cool & Dry Place
+93.31,10.49,26.96,10.66,2026-11-12,Wood,Freeze
+53.24,83.95,81.43,40.59,N/A,Ceramic,Room Temperature
+6.45,87.8,86.09,48.43,2026-01-26,Metal,Cool & Dry Place
+29.72,77.84,144.68,43.72,N/A,Wood,Cool & Dry Place
+64.35,90.36,90.0,29.67,N/A,Glass,Freeze
+56.8,58.26,60.71,32.65,2026-03-18,Cotton,Freeze
+48.28,51.64,85.92,42.86,N/A,Glass,Away from Sunlight
+45.97,7.28,135.15,19.86,2026-10-30,Leather,Refrigerated
+41.88,24.97,26.77,8.22,N/A,Paper,Room Temperature
+48.36,14.99,26.41,43.45,N/A,Rubber,Away from Sunlight
+48.1,79.01,38.94,40.61,2026-01-09,Metal,Room Temperature
+15.07,43.44,174.2,18.91,2026-01-25,Paper,Room Temperature
+29.42,27.27,162.36,31.0,N/A,Plastic,Freeze
+22.26,22.8,110.35,16.91,2026-01-19,Rubber,Dry Place
+79.34,53.36,129.42,0.15,N/A,Leather,Away from Sunlight
+45.52,90.37,156.39,33.26,N/A,Cotton,Dry Place
+93.17,18.8,152.06,1.96,2025-05-25,Paper,Room Temperature
+83.72,81.19,74.13,45.41,N/A,Silk,Dry Place
+82.45,43.38,94.99,29.56,N/A,Wood,Refrigerated
+54.66,65.59,55.2,12.64,N/A,Rubber,Refrigerated
+66.11,87.82,136.54,27.6,N/A,Rubber,Away from Sunlight
+15.05,77.32,8.6,38.38,N/A,Paper,Cool & Dry Place
+52.43,58.59,47.1,8.8,N/A,Ceramic,Dry Place
+56.74,45.65,160.26,46.06,N/A,Cotton,Room Temperature
+8.06,50.93,67.13,19.16,2026-04-09,Silk,Room Temperature
+59.76,61.48,48.6,19.53,N/A,Metal,Refrigerated
+75.13,52.43,132.37,17.99,N/A,Leather,Away from Sunlight
+55.87,13.25,98.51,35.29,N/A,Metal,Away from Sunlight
+86.54,26.35,137.93,30.49,N/A,Ceramic,Cool & Dry Place
+83.59,76.04,194.11,27.5,2026-01-01,Plastic,Freeze
+32.36,52.06,5.98,24.11,N/A,Silk,Cool & Dry Place
+68.75,68.61,135.99,20.04,2026-09-26,Paper,Refrigerated
+50.87,86.62,88.05,46.74,N/A,Paper,Room Temperature
+73.2,93.14,72.43,3.99,N/A,Plastic,Dry Place
+6.65,53.14,82.81,23.73,N/A,Plastic,Cool & Dry Place
+72.65,82.7,110.62,49.46,2026-10-23,Rubber,Freeze
+19.83,89.26,22.8,42.7,N/A,Wood,Away from Sunlight
+18.53,21.28,50.6,8.26,N/A,Wood,Freeze
+20.38,33.52,145.65,38.27,N/A,Leather,Dry Place
+76.9,5.6,93.28,6.88,N/A,Wood,Dry Place
+23.71,82.55,187.08,42.88,N/A,Glass,Refrigerated
+16.45,39.41,30.07,13.8,2025-11-01,Rubber,Away from Sunlight
+85.29,17.82,87.27,11.35,2025-09-20,Wood,Cool & Dry Place
+62.38,62.32,36.28,32.45,N/A,Rubber,Away from Sunlight
+32.05,84.38,69.01,30.31,2027-01-12,Glass,Refrigerated
+57.28,10.38,124.64,17.97,2025-08-26,Cotton,Cool & Dry Place
+30.33,79.8,181.0,11.27,N/A,Ceramic,Away from Sunlight
+69.2,41.37,136.68,4.44,2025-10-08,Plastic,Away from Sunlight
+41.48,17.47,167.21,7.54,N/A,Plastic,Refrigerated
+13.9,75.27,127.75,15.25,2025-06-06,Paper,Away from Sunlight
+44.49,76.32,125.91,7.96,2026-09-20,Ceramic,Cool & Dry Place
+62.09,8.45,24.66,48.68,N/A,Paper,Dry Place
+98.26,70.61,146.84,44.1,2026-03-04,Metal,Refrigerated
+46.54,69.76,92.0,6.44,N/A,Cotton,Dry Place
+82.4,55.71,166.31,46.06,2027-03-18,Wood,Cool & Dry Place
+51.14,70.86,84.38,10.43,2026-05-05,Metal,Dry Place
+50.79,48.69,50.22,44.66,N/A,Leather,Refrigerated
+27.73,84.97,160.67,18.87,2025-08-24,Metal,Dry Place
+45.36,25.82,177.94,30.69,N/A,Glass,Away from Sunlight
+14.09,8.95,189.2,25.49,N/A,Rubber,Room Temperature
+86.6,83.79,144.5,1.31,2025-09-16,Wood,Away from Sunlight
+53.17,97.38,159.35,39.01,N/A,Wood,Away from Sunlight
+54.26,83.39,123.74,4.93,N/A,Paper,Room Temperature
+17.13,43.56,191.19,6.61,2025-11-18,Wood,Away from Sunlight
+69.59,83.94,71.85,39.56,2025-09-02,Glass,Freeze
+22.99,60.17,195.22,25.67,2026-10-11,Plastic,Away from Sunlight
+99.12,68.12,115.83,7.81,2027-01-26,Leather,Freeze
+35.64,95.94,85.69,11.72,N/A,Metal,Refrigerated
+38.04,39.64,83.62,8.68,2025-06-18,Rubber,Room Temperature
+71.08,23.01,12.22,37.6,2025-06-28,Paper,Cool & Dry Place
+18.71,59.48,130.75,49.59,N/A,Glass,Cool & Dry Place
+66.44,85.8,197.17,23.39,2026-04-20,Plastic,Dry Place
+97.13,30.7,71.26,1.03,N/A,Silk,Refrigerated
+51.08,79.37,166.72,36.79,2026-07-18,Ceramic,Cool & Dry Place
+50.7,55.34,33.07,16.83,N/A,Glass,Dry Place
+83.45,21.03,183.91,6.95,2026-12-02,Wood,Freeze
+81.28,65.64,75.35,11.46,2027-02-16,Wood,Cool & Dry Place
+19.62,42.87,179.29,9.61,N/A,Rubber,Room Temperature
+53.7,16.55,124.13,34.59,2027-01-29,Cotton,Freeze
+64.22,72.09,117.04,32.07,2026-12-03,Wood,Cool & Dry Place
+31.25,33.24,156.93,42.19,N/A,Silk,Cool & Dry Place
+98.57,7.67,136.99,37.41,N/A,Rubber,Away from Sunlight
+56.51,62.19,18.1,0.34,N/A,Rubber,Room Temperature
+68.06,82.68,148.72,43.29,N/A,Leather,Dry Place
+69.26,64.96,16.93,12.14,2026-03-11,Metal,Freeze
+50.68,63.27,139.37,29.45,N/A,Silk,Refrigerated
+23.76,53.0,175.45,17.62,N/A,Metal,Freeze
+22.72,81.53,178.94,12.97,2026-12-18,Wood,Cool & Dry Place
+24.99,79.11,168.32,19.68,2026-10-06,Metal,Away from Sunlight
+91.02,61.39,175.73,28.51,2025-09-19,Leather,Freeze
+21.84,95.95,9.23,2.31,2025-06-13,Leather,Room Temperature
+91.98,43.58,130.71,41.02,2026-02-28,Plastic,Dry Place
+44.69,44.52,174.05,4.17,N/A,Cotton,Freeze
+77.1,32.74,123.21,2.65,N/A,Rubber,Cool & Dry Place
+60.21,48.92,154.83,7.73,N/A,Ceramic,Freeze
+32.23,22.82,123.2,20.89,N/A,Silk,Away from Sunlight
+88.86,91.42,59.54,34.61,N/A,Plastic,Cool & Dry Place
+7.26,51.06,120.89,3.86,2025-09-29,Leather,Freeze
+90.34,28.83,173.82,49.9,N/A,Cotton,Freeze
+39.46,43.25,69.35,19.86,N/A,Ceramic,Dry Place
+18.7,28.09,19.63,37.5,2026-08-11,Ceramic,Freeze
+57.0,25.37,156.77,20.0,N/A,Cotton,Cool & Dry Place
+97.61,83.57,118.74,7.0,2027-01-04,Rubber,Away from Sunlight
+97.71,90.05,41.61,33.2,N/A,Leather,Away from Sunlight
+14.44,86.28,11.58,2.12,2026-06-03,Metal,Dry Place
+50.96,15.4,11.03,30.24,N/A,Plastic,Refrigerated
+59.42,64.64,133.2,7.84,N/A,Metal,Freeze
+43.05,78.2,145.31,47.34,2026-11-20,Leather,Room Temperature
+54.0,5.78,31.16,7.02,2025-05-25,Metal,Dry Place
+16.19,97.95,19.01,46.4,2026-06-06,Leather,Dry Place
+64.55,93.45,49.0,1.07,N/A,Ceramic,Cool & Dry Place
+97.59,21.99,177.48,34.88,2026-05-20,Plastic,Room Temperature
+47.3,5.61,150.42,14.98,2026-09-14,Metal,Room Temperature
+44.09,45.12,101.55,31.53,2026-10-31,Wood,Cool & Dry Place
+66.64,59.78,67.01,16.59,2027-02-26,Silk,Dry Place
+74.85,56.42,106.99,23.33,2026-08-11,Leather,Refrigerated
+93.56,57.68,197.23,10.55,N/A,Cotton,Cool & Dry Place
+38.65,99.6,194.35,4.22,2025-12-17,Plastic,Dry Place
+67.27,48.56,17.14,13.36,2026-01-25,Wood,Away from Sunlight
+77.99,38.69,77.55,25.01,N/A,Wood,Room Temperature
+55.5,68.43,53.94,0.73,N/A,Leather,Freeze
+47.76,8.7,51.42,5.03,N/A,Cotton,Freeze
+39.1,90.78,37.58,3.01,N/A,Plastic,Room Temperature
+13.44,96.37,124.57,36.01,N/A,Plastic,Refrigerated
+93.22,99.3,131.11,22.87,2025-08-24,Leather,Freeze
+10.47,46.01,111.95,24.74,2025-07-11,Plastic,Away from Sunlight
+62.77,70.81,37.19,41.29,N/A,Leather,Refrigerated
+94.4,88.84,66.64,14.68,N/A,Metal,Away from Sunlight
+60.98,84.36,18.44,44.97,N/A,Silk,Room Temperature
+63.26,75.0,41.1,31.87,2027-01-20,Silk,Away from Sunlight
+31.78,14.03,131.58,5.61,2026-08-30,Glass,Cool & Dry Place
+97.6,13.0,80.55,0.81,2027-03-31,Ceramic,Refrigerated
+44.54,62.64,99.17,21.25,2026-12-04,Glass,Room Temperature
+35.64,23.14,35.26,43.82,2026-09-07,Glass,Freeze
+90.6,44.17,114.89,1.56,2026-11-12,Paper,Freeze
+11.99,26.47,133.04,5.06,N/A,Silk,Refrigerated
+70.04,93.81,24.93,9.05,N/A,Rubber,Cool & Dry Place
+22.99,37.76,186.18,17.42,N/A,Paper,Freeze
+13.78,51.24,135.56,11.51,N/A,Silk,Cool & Dry Place
+57.04,20.32,167.2,40.3,2027-03-01,Wood,Dry Place
+56.97,22.41,42.04,46.17,N/A,Paper,Room Temperature
+69.7,12.41,142.47,16.79,N/A,Ceramic,Cool & Dry Place
+61.38,87.09,199.04,46.5,N/A,Metal,Cool & Dry Place
+28.4,30.61,68.25,26.63,N/A,Wood,Refrigerated
+22.05,70.89,95.77,8.61,2026-08-21,Leather,Dry Place
+94.81,63.6,21.32,26.89,N/A,Metal,Refrigerated
+11.76,31.19,128.21,29.97,N/A,Leather,Cool & Dry Place
+82.36,34.11,34.98,9.73,2027-02-09,Rubber,Refrigerated
+37.64,22.27,7.91,6.73,N/A,Silk,Cool & Dry Place
+14.69,70.88,96.57,49.45,N/A,Rubber,Freeze
+63.28,74.33,44.42,37.11,2025-10-02,Wood,Dry Place
+54.09,72.39,11.68,26.42,2025-09-03,Wood,Room Temperature
+86.21,64.27,120.29,32.6,2025-08-21,Silk,Away from Sunlight
+75.86,14.95,136.54,37.47,N/A,Metal,Refrigerated
+51.44,96.1,77.08,18.91,N/A,Paper,Freeze
+64.37,8.18,21.44,16.71,2025-06-15,Leather,Dry Place
+51.38,19.03,161.43,44.46,N/A,Metal,Freeze
+43.68,87.19,199.22,15.77,2026-04-16,Cotton,Cool & Dry Place
+63.7,90.1,97.36,44.08,N/A,Paper,Dry Place
+53.56,63.12,44.67,35.54,N/A,Paper,Freeze
+5.78,36.97,154.05,39.03,N/A,Silk,Cool & Dry Place
+7.69,12.86,83.84,3.06,N/A,Glass,Room Temperature
+54.42,39.03,190.79,45.33,N/A,Glass,Dry Place
+63.25,51.62,123.99,0.53,N/A,Cotton,Room Temperature
+52.13,59.43,111.66,28.17,N/A,Cotton,Dry Place
+49.56,61.35,69.73,5.88,2027-01-15,Wood,Freeze
+79.9,5.74,97.02,37.54,N/A,Paper,Freeze
+34.55,29.19,8.63,47.06,2027-03-02,Cotton,Cool & Dry Place
+65.83,93.43,52.89,19.7,2027-01-09,Wood,Dry Place
+50.8,36.37,84.6,19.05,N/A,Glass,Freeze
+66.53,71.25,81.46,48.2,N/A,Ceramic,Refrigerated
+75.39,53.65,124.39,9.03,N/A,Paper,Dry Place
+88.87,20.77,135.36,21.11,2026-12-13,Paper,Freeze
+54.06,67.26,51.41,46.13,2027-01-12,Glass,Cool & Dry Place
+37.14,13.86,58.75,44.71,N/A,Glass,Dry Place
+92.68,81.64,70.1,30.89,N/A,Leather,Dry Place
+94.18,65.18,140.94,27.69,2026-09-27,Leather,Dry Place
+47.81,81.24,104.29,14.18,2025-05-25,Silk,Dry Place
+12.91,93.88,109.89,11.85,2026-10-22,Silk,Freeze
+34.13,53.42,162.36,49.92,2027-03-12,Cotton,Freeze
+53.29,17.39,89.51,45.85,2025-12-28,Plastic,Dry Place
+29.93,86.28,38.78,6.51,N/A,Glass,Refrigerated
+80.08,78.16,23.73,25.98,N/A,Leather,Away from Sunlight
+37.51,53.45,103.73,38.75,N/A,Plastic,Freeze
+26.89,80.32,178.56,15.15,N/A,Ceramic,Room Temperature
+28.82,42.57,20.92,34.32,2027-02-02,Rubber,Cool & Dry Place
+69.8,79.2,5.5,48.37,N/A,Paper,Dry Place
+92.62,16.54,53.47,29.55,2026-05-18,Rubber,Refrigerated
+52.0,6.78,164.24,26.68,2026-08-11,Metal,Refrigerated
+82.32,88.33,93.78,29.89,N/A,Metal,Away from Sunlight
+6.93,83.84,142.47,0.13,2026-12-05,Cotton,Away from Sunlight
+17.49,36.23,170.25,32.61,2025-10-04,Paper,Freeze
+86.97,21.4,69.89,8.82,N/A,Leather,Refrigerated
+21.21,12.39,141.15,21.66,2025-10-29,Rubber,Away from Sunlight
+30.07,52.32,177.89,14.2,2027-03-25,Cotton,Room Temperature
+81.98,54.96,112.81,8.23,N/A,Metal,Freeze
+76.79,86.13,174.88,2.81,N/A,Plastic,Dry Place
+15.69,9.21,94.69,23.33,2027-02-24,Glass,Room Temperature
+48.06,57.51,175.28,42.53,N/A,Leather,Freeze
+55.92,23.39,154.42,27.59,2027-01-17,Metal,Refrigerated
+92.09,70.83,38.77,15.48,2026-12-31,Wood,Dry Place
+71.88,65.46,191.72,1.72,N/A,Rubber,Dry Place
+24.58,29.31,90.18,13.13,N/A,Ceramic,Room Temperature
+67.99,36.93,139.41,29.59,2026-07-01,Metal,Freeze
+54.24,43.99,6.91,17.15,N/A,Silk,Refrigerated
+45.59,64.13,186.7,44.21,N/A,Silk,Cool & Dry Place
+45.09,6.85,168.61,41.9,N/A,Metal,Dry Place
+59.78,91.78,70.48,10.0,2027-02-20,Plastic,Freeze
+47.54,69.88,136.76,8.42,N/A,Paper,Freeze
+28.17,49.51,127.96,38.64,2026-12-18,Paper,Room Temperature
+35.95,55.45,29.18,39.58,N/A,Rubber,Away from Sunlight
+28.39,76.69,63.24,25.4,N/A,Ceramic,Cool & Dry Place
+39.66,45.34,158.73,23.02,N/A,Plastic,Freeze
+82.91,8.96,20.55,4.58,N/A,Plastic,Cool & Dry Place
+44.41,72.19,113.62,46.44,N/A,Rubber,Freeze
+92.12,76.56,49.14,19.63,N/A,Wood,Freeze
+52.66,37.01,129.21,39.85,2026-03-25,Rubber,Cool & Dry Place
+49.04,43.71,58.67,9.25,2027-01-24,Wood,Room Temperature
+11.95,82.98,42.06,13.34,N/A,Leather,Refrigerated
+32.49,54.56,96.4,15.06,N/A,Plastic,Dry Place
+66.83,5.63,189.47,37.68,2026-07-29,Silk,Freeze
+54.14,51.9,172.59,19.38,2025-05-20,Silk,Room Temperature
+46.83,20.45,39.33,18.57,N/A,Cotton,Dry Place
+75.17,81.49,158.26,26.09,N/A,Paper,Room Temperature
+19.95,20.6,165.08,25.24,N/A,Wood,Cool & Dry Place
+52.1,54.54,116.12,3.29,2026-03-11,Metal,Away from Sunlight
+21.85,96.19,81.84,44.22,2026-12-07,Leather,Room Temperature
+94.41,48.1,43.33,28.12,N/A,Cotton,Cool & Dry Place
+73.88,76.98,8.36,28.36,2026-03-11,Leather,Away from Sunlight
+32.29,62.84,59.52,33.68,2025-12-10,Leather,Room Temperature
+23.2,36.41,56.43,47.61,N/A,Cotton,Refrigerated
+66.87,60.34,157.67,33.79,N/A,Leather,Freeze
+48.95,21.59,179.97,13.74,N/A,Silk,Room Temperature
+5.88,90.83,69.25,38.68,N/A,Paper,Away from Sunlight
+49.74,27.37,142.44,18.46,2026-09-19,Ceramic,Away from Sunlight
+61.71,91.16,141.1,27.41,N/A,Leather,Dry Place
+82.87,78.9,135.49,38.16,2025-05-16,Plastic,Cool & Dry Place
+46.58,47.9,90.8,32.11,N/A,Cotton,Room Temperature
+8.83,92.08,110.76,12.76,N/A,Plastic,Cool & Dry Place
+35.9,30.38,93.41,40.54,2025-10-27,Metal,Room Temperature
+56.15,35.73,48.94,34.43,2026-01-28,Metal,Refrigerated
+65.56,66.35,146.55,16.6,N/A,Rubber,Cool & Dry Place
+40.03,17.53,192.52,19.9,N/A,Cotton,Freeze
+55.07,76.85,35.68,12.39,2026-11-21,Ceramic,Away from Sunlight
+67.29,5.31,116.4,30.12,N/A,Plastic,Dry Place
+5.05,67.72,154.39,34.84,N/A,Silk,Freeze
+99.7,28.51,108.44,17.53,N/A,Ceramic,Refrigerated
+51.36,55.94,10.57,20.34,2025-06-05,Rubber,Freeze
+71.08,54.5,145.35,44.35,N/A,Rubber,Freeze
+10.9,81.42,116.4,0.59,2026-04-13,Leather,Away from Sunlight
+38.84,79.36,79.15,16.33,2026-10-15,Cotton,Cool & Dry Place
+54.57,99.34,169.3,32.8,2026-02-08,Ceramic,Refrigerated
+66.52,8.82,94.62,27.3,2025-07-18,Silk,Dry Place
+59.54,57.27,130.8,24.44,N/A,Silk,Dry Place
+71.33,89.09,187.16,42.96,2027-02-07,Rubber,Cool & Dry Place
+8.56,92.23,126.37,30.05,2025-07-24,Ceramic,Dry Place
+58.61,34.17,72.6,2.45,N/A,Glass,Cool & Dry Place
+67.72,62.74,44.46,29.44,2025-06-17,Metal,Freeze
+32.17,35.95,196.52,13.8,N/A,Silk,Room Temperature
+87.77,65.92,141.55,8.04,N/A,Metal,Cool & Dry Place
+43.86,52.77,175.99,16.03,N/A,Wood,Room Temperature
+75.42,62.6,58.29,35.26,2027-01-24,Plastic,Refrigerated
+30.19,5.08,127.59,28.5,N/A,Rubber,Room Temperature
+28.45,40.44,186.96,0.41,N/A,Cotton,Dry Place
+9.28,62.38,33.22,43.41,2026-06-16,Plastic,Refrigerated
+42.11,33.06,92.02,35.84,2026-08-01,Wood,Cool & Dry Place
+10.21,81.64,57.46,44.91,N/A,Plastic,Dry Place
+73.58,92.57,88.87,48.5,N/A,Glass,Room Temperature
+52.95,35.54,149.02,31.8,2026-01-14,Paper,Cool & Dry Place
+89.75,93.76,108.29,33.92,N/A,Silk,Cool & Dry Place
+93.43,42.36,82.73,21.53,2026-01-23,Leather,Away from Sunlight
+56.71,46.43,169.05,33.67,N/A,Rubber,Freeze
+10.71,50.22,195.79,40.64,2025-12-20,Glass,Room Temperature
+27.47,20.46,15.06,41.78,N/A,Leather,Away from Sunlight
+97.82,92.63,45.96,9.63,N/A,Glass,Refrigerated
+91.89,85.4,55.61,29.26,N/A,Glass,Room Temperature
+81.32,37.25,25.5,0.37,2026-06-30,Paper,Room Temperature
+87.65,96.97,10.04,44.92,N/A,Ceramic,Refrigerated
+41.19,39.2,79.79,18.09,2025-06-02,Ceramic,Cool & Dry Place
+38.44,26.16,12.35,23.52,N/A,Glass,Freeze
+70.68,55.3,141.87,27.57,N/A,Leather,Away from Sunlight
+70.4,26.87,30.14,5.94,2025-08-16,Paper,Freeze
+19.37,58.75,113.74,28.26,N/A,Metal,Cool & Dry Place
+64.36,94.31,48.3,24.7,2026-11-13,Ceramic,Away from Sunlight
+84.42,58.43,32.23,19.9,N/A,Rubber,Freeze
+67.25,71.16,183.45,6.12,N/A,Glass,Dry Place
+9.94,33.85,148.04,28.47,N/A,Wood,Refrigerated
+41.5,66.01,197.29,35.38,N/A,Ceramic,Room Temperature
+68.03,55.77,105.4,42.42,N/A,Plastic,Refrigerated
+93.73,96.1,98.04,6.55,2027-01-25,Glass,Freeze
+29.7,42.42,131.77,27.75,N/A,Plastic,Freeze
+91.07,91.61,47.12,21.34,N/A,Paper,Dry Place
+44.86,7.62,40.91,24.11,N/A,Rubber,Room Temperature
+52.07,15.07,183.52,29.36,2026-12-14,Wood,Cool & Dry Place
+25.85,52.57,113.87,16.96,N/A,Glass,Cool & Dry Place
+89.76,93.28,163.5,18.08,N/A,Plastic,Cool & Dry Place
+88.77,13.22,152.36,3.85,2025-10-23,Metal,Dry Place
+11.72,92.64,178.07,20.48,2025-06-06,Ceramic,Freeze
+89.53,32.52,31.25,25.46,2025-07-27,Cotton,Cool & Dry Place
+6.5,27.57,192.68,17.23,N/A,Metal,Freeze
+45.01,8.76,76.1,28.29,2026-10-16,Paper,Refrigerated
+77.97,5.27,77.45,44.44,2026-04-18,Leather,Cool & Dry Place
+96.27,94.91,173.03,0.15,2027-03-14,Ceramic,Refrigerated
+74.41,22.78,20.84,42.14,N/A,Ceramic,Cool & Dry Place
+60.87,57.41,126.7,7.01,N/A,Ceramic,Freeze
+46.1,89.51,27.79,25.84,N/A,Rubber,Away from Sunlight
+39.36,47.58,89.74,18.31,N/A,Ceramic,Cool & Dry Place
+63.69,47.06,102.58,31.31,2026-06-03,Rubber,Away from Sunlight
+38.42,87.9,10.05,5.66,2027-01-04,Ceramic,Cool & Dry Place
+76.61,79.08,122.91,31.85,2025-06-10,Ceramic,Cool & Dry Place
+40.25,85.7,176.62,36.1,2025-08-06,Ceramic,Away from Sunlight
+96.28,74.34,105.1,36.81,N/A,Silk,Cool & Dry Place
+61.75,79.6,158.18,37.94,2025-05-11,Cotton,Away from Sunlight
+94.79,73.02,180.03,7.34,2026-12-15,Glass,Room Temperature
+73.29,52.12,122.44,31.94,2026-07-15,Silk,Dry Place
+33.59,56.46,123.86,2.17,2026-11-16,Ceramic,Cool & Dry Place
+15.49,99.05,52.26,29.9,2026-07-01,Ceramic,Away from Sunlight
+6.45,77.17,61.11,38.3,2026-08-23,Cotton,Freeze
+11.62,49.72,97.54,32.26,2026-07-08,Plastic,Away from Sunlight
+5.69,20.69,150.58,0.45,2026-08-20,Leather,Dry Place
+90.41,14.58,53.22,33.53,N/A,Wood,Refrigerated
+39.03,90.54,161.33,24.01,2025-08-05,Plastic,Dry Place
+89.97,60.52,145.98,49.93,N/A,Silk,Away from Sunlight
+85.58,93.73,60.08,7.67,2025-06-17,Silk,Room Temperature
+95.16,60.38,107.17,9.08,N/A,Silk,Room Temperature
+68.49,20.79,32.53,43.61,N/A,Leather,Refrigerated
+48.27,74.16,169.39,25.65,N/A,Plastic,Refrigerated
+66.02,15.45,102.48,30.66,2025-11-04,Rubber,Freeze
+23.03,55.1,72.93,45.85,N/A,Silk,Cool & Dry Place
+61.8,21.47,181.9,20.11,N/A,Silk,Freeze
+79.03,61.12,36.99,30.93,2025-07-07,Rubber,Dry Place
+40.98,12.43,88.28,40.81,2025-06-09,Cotton,Dry Place
+14.52,8.75,27.48,47.55,2026-05-28,Paper,Freeze
+19.47,24.09,35.32,18.28,N/A,Cotton,Away from Sunlight
+77.35,30.71,97.84,29.05,N/A,Leather,Dry Place
+85.83,89.98,189.45,23.53,N/A,Glass,Room Temperature
+46.59,29.6,152.93,35.57,N/A,Wood,Away from Sunlight
+16.56,16.18,125.95,8.65,2026-03-15,Paper,Refrigerated
+33.66,78.77,173.39,0.49,N/A,Glass,Away from Sunlight
+28.54,61.87,64.36,28.17,N/A,Silk,Away from Sunlight
+64.93,71.27,109.88,29.36,2026-12-26,Wood,Room Temperature
+81.57,87.58,165.6,5.66,N/A,Cotton,Dry Place
+74.53,26.89,117.21,8.97,N/A,Ceramic,Dry Place
+76.14,23.87,181.43,13.82,2025-11-30,Silk,Away from Sunlight
+31.98,41.56,171.88,34.7,2026-06-19,Glass,Away from Sunlight
+52.22,70.26,119.03,25.8,2027-02-24,Glass,Freeze
+36.52,54.62,22.95,4.8,N/A,Wood,Freeze
+29.31,82.85,51.29,2.15,2026-09-08,Leather,Dry Place
+61.88,53.84,11.87,21.58,N/A,Silk,Room Temperature
+21.42,74.85,169.48,3.81,N/A,Cotton,Away from Sunlight
+25.38,14.49,120.3,22.86,2026-08-21,Plastic,Dry Place
+10.29,86.66,88.15,8.32,N/A,Paper,Freeze
+84.08,57.91,20.99,12.9,2025-08-21,Cotton,Cool & Dry Place
+67.73,23.61,198.65,29.7,2026-10-20,Glass,Cool & Dry Place
+72.92,22.93,86.93,29.72,2026-05-10,Glass,Away from Sunlight
+31.69,12.74,119.22,43.39,2026-04-06,Glass,Freeze
+91.27,52.8,114.32,10.02,2026-08-22,Cotton,Dry Place
+64.94,35.15,139.3,12.42,2025-10-02,Wood,Away from Sunlight
+76.06,51.2,194.57,10.53,2025-06-27,Leather,Freeze
+35.57,93.6,102.04,23.37,2026-10-06,Glass,Cool & Dry Place
+89.27,64.23,152.45,44.87,N/A,Metal,Cool & Dry Place
+37.08,48.18,139.35,2.66,N/A,Silk,Dry Place
+77.22,82.29,58.47,45.98,2025-12-07,Plastic,Cool & Dry Place
+34.23,47.24,145.61,35.24,N/A,Metal,Room Temperature
+37.19,64.2,5.25,48.53,N/A,Glass,Room Temperature
+68.07,83.79,14.14,36.84,N/A,Glass,Freeze
+64.78,57.76,187.86,44.8,N/A,Silk,Cool & Dry Place
+46.84,25.47,149.79,17.98,N/A,Paper,Away from Sunlight
+28.6,65.83,82.11,45.14,2025-06-17,Silk,Room Temperature
+34.41,14.07,13.29,3.68,2026-11-19,Metal,Room Temperature
+71.76,80.66,185.42,21.53,2026-06-22,Metal,Refrigerated
+75.12,74.79,32.07,37.98,N/A,Leather,Cool & Dry Place
+91.98,59.6,95.17,28.5,N/A,Leather,Freeze
+96.39,87.69,129.46,24.46,2026-12-27,Ceramic,Refrigerated
+86.15,99.94,172.8,35.51,2026-05-31,Wood,Dry Place
+83.81,38.82,121.51,19.24,N/A,Rubber,Refrigerated
+87.49,97.84,156.23,7.43,N/A,Paper,Away from Sunlight
+46.36,34.1,160.75,12.37,N/A,Plastic,Away from Sunlight
+97.6,49.69,15.45,15.71,2025-06-08,Cotton,Dry Place
+8.33,58.06,13.88,0.52,2025-07-27,Metal,Dry Place
+7.22,44.27,150.88,2.55,N/A,Paper,Cool & Dry Place
+16.37,52.14,116.95,45.96,N/A,Ceramic,Refrigerated
+87.08,5.5,142.13,30.55,N/A,Ceramic,Cool & Dry Place
+29.65,35.72,72.48,11.77,N/A,Wood,Dry Place
+17.21,75.49,123.8,5.23,N/A,Leather,Away from Sunlight
+52.96,20.7,168.0,17.25,N/A,Cotton,Away from Sunlight
+89.34,88.29,66.01,34.41,2027-01-04,Glass,Refrigerated
+47.38,79.49,171.35,32.55,2026-12-22,Paper,Refrigerated
+16.69,54.17,25.07,13.19,N/A,Silk,Dry Place
+24.28,55.67,7.84,11.73,2026-05-01,Metal,Dry Place
+58.77,34.58,111.28,0.67,2026-04-21,Leather,Freeze
+43.24,77.81,190.02,41.59,2025-07-11,Metal,Room Temperature
+87.55,88.72,157.16,30.4,2025-05-31,Cotton,Cool & Dry Place
+98.74,86.5,183.86,8.71,2026-03-07,Wood,Cool & Dry Place
+58.41,27.87,153.04,21.56,2026-03-01,Paper,Refrigerated
+99.23,5.4,137.05,30.35,2025-10-06,Plastic,Freeze
+62.96,78.96,108.0,27.74,N/A,Wood,Freeze
+8.54,69.62,28.09,1.88,2026-10-03,Cotton,Dry Place
+38.32,35.48,23.82,8.6,N/A,Silk,Refrigerated
+46.36,52.92,18.99,15.94,N/A,Cotton,Away from Sunlight
+51.82,73.38,145.18,36.16,2025-07-22,Plastic,Cool & Dry Place
+6.73,21.71,92.74,6.96,2026-05-22,Metal,Freeze
+18.12,91.12,64.85,26.49,2026-03-26,Ceramic,Room Temperature
+43.27,89.85,91.74,25.12,N/A,Leather,Away from Sunlight
+26.77,13.65,51.06,28.67,N/A,Leather,Refrigerated
+24.93,60.24,93.46,7.17,N/A,Cotton,Away from Sunlight
+68.59,13.51,43.87,21.48,N/A,Rubber,Away from Sunlight
+73.52,45.79,89.19,28.82,N/A,Rubber,Away from Sunlight
+41.3,10.39,17.41,22.34,N/A,Metal,Cool & Dry Place
+28.02,46.81,21.69,48.06,2025-07-12,Paper,Freeze
+93.14,52.26,146.2,35.56,N/A,Wood,Away from Sunlight
+28.26,32.89,109.76,31.56,N/A,Silk,Freeze
+20.7,88.46,104.91,22.12,2025-11-20,Plastic,Away from Sunlight
+19.61,95.48,196.49,20.02,N/A,Silk,Room Temperature
+85.43,33.16,182.32,4.74,2026-08-01,Silk,Freeze
+12.44,78.4,182.84,31.74,2026-12-31,Metal,Dry Place
+36.91,99.41,118.99,38.76,N/A,Paper,Refrigerated
+42.24,95.79,54.75,42.16,2025-12-09,Leather,Room Temperature
+19.59,45.32,73.61,14.66,2027-02-12,Wood,Cool & Dry Place
+92.1,60.06,44.46,43.59,2025-10-30,Glass,Refrigerated
+52.55,54.89,18.16,34.12,N/A,Glass,Away from Sunlight
+85.89,78.64,165.56,25.33,2027-01-09,Cotton,Freeze
+24.63,56.83,22.77,30.13,N/A,Cotton,Dry Place
+45.26,68.54,194.55,18.23,N/A,Metal,Room Temperature
+57.93,32.83,93.13,47.99,2025-12-04,Glass,Freeze
+75.95,6.34,73.78,48.16,2026-10-11,Metal,Dry Place
+25.67,64.24,60.39,20.91,N/A,Wood,Dry Place
+76.37,29.78,185.48,16.41,N/A,Glass,Refrigerated
+76.63,72.16,71.33,48.73,N/A,Ceramic,Refrigerated
+64.96,5.67,24.45,4.13,N/A,Cotton,Freeze
+61.78,19.01,193.78,43.41,2025-08-03,Silk,Dry Place
+9.73,93.62,166.79,37.12,2026-10-16,Silk,Room Temperature
+19.36,75.08,31.98,4.05,2026-04-20,Paper,Refrigerated
+74.57,62.31,165.4,7.64,2025-06-23,Plastic,Dry Place
+31.95,12.34,91.59,49.48,N/A,Rubber,Away from Sunlight
+99.89,48.7,145.84,1.57,2025-11-28,Cotton,Away from Sunlight
+30.29,51.1,85.85,44.3,N/A,Wood,Away from Sunlight
+27.08,6.92,57.08,5.55,2026-04-05,Wood,Dry Place
+16.2,16.47,74.33,1.51,N/A,Wood,Dry Place
+96.73,90.7,162.97,37.46,2026-01-25,Paper,Refrigerated
+27.18,57.02,40.4,47.16,N/A,Rubber,Room Temperature
+7.18,46.97,82.83,42.22,N/A,Rubber,Freeze
+54.84,76.11,122.52,44.33,N/A,Glass,Freeze
+68.04,92.68,107.39,36.48,2026-08-09,Leather,Dry Place
+34.98,26.6,33.39,11.21,2026-12-20,Metal,Away from Sunlight
+71.39,38.48,64.87,16.88,N/A,Leather,Refrigerated
+27.85,55.33,14.8,18.13,N/A,Metal,Dry Place
+92.4,64.91,38.75,38.59,N/A,Plastic,Freeze
+12.91,51.08,183.36,12.54,N/A,Ceramic,Dry Place
+83.34,64.67,17.03,29.99,2026-04-23,Ceramic,Away from Sunlight
+10.93,62.05,23.77,34.16,2025-05-10,Metal,Refrigerated
+81.09,89.8,25.85,24.55,2026-08-08,Metal,Dry Place
+47.08,31.79,154.51,36.43,2026-08-31,Rubber,Room Temperature
+99.33,42.34,184.83,42.58,2025-12-20,Silk,Dry Place
+57.64,5.34,111.42,1.57,2026-03-17,Ceramic,Freeze
+46.32,98.34,73.42,30.63,2026-05-22,Silk,Room Temperature
+52.62,74.86,119.79,22.37,N/A,Plastic,Refrigerated
+33.1,34.27,50.87,48.38,N/A,Glass,Away from Sunlight
+49.94,40.15,184.06,17.48,N/A,Wood,Cool & Dry Place
+76.0,16.86,134.48,41.55,2025-08-07,Cotton,Room Temperature
+52.88,53.36,29.02,10.01,2026-09-22,Wood,Refrigerated
+52.89,52.02,141.23,41.21,N/A,Silk,Dry Place
+94.88,83.84,132.68,19.01,2025-11-25,Metal,Refrigerated
+25.82,60.63,75.61,0.79,N/A,Metal,Freeze
+94.13,54.84,113.12,37.96,2026-09-10,Leather,Away from Sunlight
+87.22,87.08,124.52,3.11,2026-11-26,Paper,Away from Sunlight
+19.33,86.46,114.01,36.47,N/A,Leather,Dry Place
+83.37,32.21,167.87,12.22,N/A,Glass,Freeze
+74.04,81.6,119.89,40.29,N/A,Paper,Refrigerated
+79.18,8.74,165.77,10.02,2026-06-15,Metal,Refrigerated
+59.27,64.71,65.41,8.08,N/A,Cotton,Cool & Dry Place
+38.55,70.12,147.49,32.17,N/A,Plastic,Dry Place
+65.3,48.24,127.85,30.66,N/A,Plastic,Dry Place
+78.59,80.87,88.7,11.04,N/A,Cotton,Freeze
+13.94,17.56,126.78,45.18,N/A,Cotton,Room Temperature
+49.38,52.81,98.92,2.24,2025-05-17,Glass,Freeze
+59.54,58.03,125.48,6.42,2027-03-19,Cotton,Refrigerated
+40.04,9.62,188.56,19.12,N/A,Paper,Refrigerated
+35.45,54.62,118.04,5.42,N/A,Glass,Dry Place
+54.52,79.73,110.45,47.61,N/A,Plastic,Refrigerated
+39.64,5.77,18.44,27.37,N/A,Ceramic,Dry Place
+71.06,83.62,49.73,36.24,N/A,Wood,Cool & Dry Place
+8.92,54.33,40.48,38.73,2025-10-08,Metal,Cool & Dry Place
+43.47,41.94,62.53,30.66,2026-06-16,Cotton,Room Temperature
+9.93,10.55,68.93,30.83,N/A,Silk,Dry Place
+66.47,39.11,176.5,20.93,2025-10-05,Leather,Away from Sunlight
+53.49,17.31,126.06,12.38,N/A,Paper,Freeze
+16.65,73.38,14.75,49.92,N/A,Leather,Room Temperature
+60.96,58.86,103.47,22.08,N/A,Ceramic,Refrigerated
+97.88,15.39,101.93,10.13,N/A,Paper,Freeze
+98.16,79.15,109.61,45.9,N/A,Ceramic,Away from Sunlight
+93.42,80.01,194.33,15.05,2025-05-29,Ceramic,Refrigerated
+84.55,35.46,115.5,26.33,N/A,Silk,Away from Sunlight
+58.36,11.55,122.85,49.67,N/A,Ceramic,Freeze
+90.06,42.71,190.01,19.26,2026-03-25,Wood,Freeze
+78.31,50.54,187.53,21.56,2026-03-21,Glass,Freeze
+18.23,64.64,34.38,13.17,2026-02-15,Glass,Freeze
+90.5,20.66,100.72,19.92,N/A,Wood,Cool & Dry Place
+28.75,59.07,8.17,6.79,N/A,Rubber,Cool & Dry Place
+50.94,50.63,5.72,14.16,N/A,Paper,Away from Sunlight
+9.41,7.32,142.74,38.19,N/A,Cotton,Refrigerated
+49.73,94.24,186.14,14.75,N/A,Glass,Cool & Dry Place
+23.4,40.45,144.25,4.22,2025-05-09,Paper,Freeze
+85.3,53.44,122.49,16.58,2025-06-07,Glass,Freeze
+29.49,44.37,61.4,41.59,2025-07-30,Silk,Cool & Dry Place
+20.86,60.0,98.67,12.84,N/A,Leather,Cool & Dry Place
+80.68,30.88,120.21,27.87,N/A,Ceramic,Cool & Dry Place
+25.41,28.25,198.47,26.03,2025-06-07,Wood,Cool & Dry Place
+87.45,32.8,129.17,22.77,N/A,Wood,Freeze
+52.9,90.15,127.59,7.02,N/A,Cotton,Cool & Dry Place
+49.74,52.66,92.33,40.7,2025-11-22,Leather,Room Temperature
+74.32,34.91,166.54,10.32,N/A,Leather,Freeze
+59.73,45.0,67.37,41.68,2026-02-01,Silk,Away from Sunlight
+88.74,41.76,35.08,8.63,2026-02-06,Ceramic,Freeze
+73.64,38.11,142.55,38.95,2027-03-03,Rubber,Cool & Dry Place
+47.46,45.33,19.93,32.23,N/A,Wood,Dry Place
+46.12,51.51,119.59,0.55,2025-06-10,Glass,Refrigerated
+10.38,18.59,196.65,31.79,N/A,Cotton,Refrigerated
+11.65,59.6,39.7,14.39,2025-06-07,Cotton,Room Temperature
+40.94,73.18,121.47,31.39,2026-04-06,Paper,Cool & Dry Place
+50.36,33.19,193.98,43.19,N/A,Leather,Freeze
+50.19,56.59,100.32,11.25,2025-07-11,Cotton,Cool & Dry Place
+35.11,18.19,119.79,26.48,2026-02-21,Glass,Room Temperature
+80.88,31.69,13.21,29.42,2026-01-13,Glass,Dry Place
+69.32,73.43,51.47,12.08,2025-12-30,Metal,Dry Place
+42.38,14.91,193.64,10.49,2026-06-05,Paper,Dry Place
+34.56,25.96,125.56,26.82,N/A,Rubber,Cool & Dry Place
+34.85,85.22,103.06,23.86,2026-06-19,Plastic,Freeze
+33.07,47.17,32.37,32.21,N/A,Metal,Dry Place
+71.93,28.62,28.7,4.22,2025-12-03,Silk,Room Temperature
+5.59,32.56,170.16,44.8,2025-08-31,Ceramic,Freeze
+73.59,20.86,121.95,30.66,N/A,Leather,Away from Sunlight
+56.38,19.5,63.05,9.02,N/A,Plastic,Cool & Dry Place
+15.88,5.72,138.89,6.56,2025-07-04,Metal,Freeze
+60.31,66.11,163.69,25.88,N/A,Leather,Away from Sunlight
+95.84,83.67,34.04,49.7,N/A,Leather,Dry Place
+58.26,46.49,12.99,48.16,N/A,Cotton,Cool & Dry Place
+24.95,27.89,178.79,9.7,N/A,Metal,Cool & Dry Place
+6.91,7.42,68.57,43.97,N/A,Silk,Dry Place
+56.59,93.96,66.61,49.59,N/A,Plastic,Refrigerated
+95.56,93.18,100.79,27.8,2025-06-09,Paper,Refrigerated
+5.58,44.51,166.79,17.87,2027-04-01,Glass,Freeze
+14.45,24.04,57.41,39.4,2027-01-15,Silk,Cool & Dry Place
+86.07,26.63,57.31,37.62,2026-02-15,Silk,Room Temperature
+42.66,16.66,76.82,18.33,2025-07-29,Silk,Freeze
+13.48,94.34,76.88,8.53,N/A,Plastic,Cool & Dry Place
+25.72,34.69,148.73,5.67,2027-01-07,Wood,Away from Sunlight
+25.38,90.41,11.75,39.18,N/A,Plastic,Away from Sunlight
+96.93,67.73,100.86,23.47,2025-12-18,Metal,Cool & Dry Place
+71.12,17.65,74.63,6.46,2026-03-07,Metal,Cool & Dry Place
+87.42,92.62,58.01,20.92,N/A,Rubber,Room Temperature
+56.51,83.95,160.51,5.2,N/A,Glass,Dry Place
+38.51,47.3,6.39,18.83,2026-08-21,Wood,Away from Sunlight
+39.44,63.92,48.96,31.59,2027-01-29,Cotton,Dry Place
+84.17,73.12,6.34,38.65,N/A,Silk,Room Temperature
+59.38,99.5,58.66,38.95,2026-07-02,Glass,Away from Sunlight
+40.36,5.02,183.35,37.96,N/A,Leather,Refrigerated
+96.93,93.73,165.04,33.01,N/A,Wood,Room Temperature
+76.46,93.15,167.03,27.11,N/A,Cotton,Room Temperature
+35.3,43.17,97.87,22.36,2025-07-11,Metal,Room Temperature
+70.9,82.7,130.79,13.26,N/A,Leather,Refrigerated
+69.05,84.71,17.34,5.09,2026-04-20,Ceramic,Away from Sunlight
+51.43,8.22,179.69,22.43,N/A,Wood,Refrigerated
+9.14,61.6,55.52,40.6,N/A,Paper,Cool & Dry Place
+30.71,65.02,185.1,48.77,2025-12-08,Leather,Away from Sunlight
+50.86,21.08,17.13,4.93,2025-10-18,Glass,Away from Sunlight
+96.3,78.31,68.88,33.52,2026-03-15,Wood,Away from Sunlight
+58.81,59.63,145.62,31.0,2026-07-25,Wood,Refrigerated
+27.8,77.27,119.12,12.28,2026-06-26,Silk,Refrigerated
+71.29,71.22,107.81,11.82,2026-05-17,Wood,Freeze
+84.64,83.18,197.68,8.52,2027-02-07,Paper,Freeze
+63.82,35.88,127.21,5.67,N/A,Plastic,Freeze
+23.44,52.09,96.63,23.19,N/A,Ceramic,Away from Sunlight
+5.97,8.47,10.86,39.69,2026-08-09,Metal,Room Temperature
+99.13,42.26,5.26,31.25,N/A,Rubber,Away from Sunlight
+26.05,54.56,148.46,1.88,2027-03-15,Plastic,Cool & Dry Place
+94.24,18.62,101.46,0.89,2025-10-26,Glass,Freeze
+46.57,83.27,199.23,27.51,2025-11-07,Leather,Away from Sunlight
+14.08,55.02,16.97,8.4,2025-08-28,Metal,Room Temperature
+41.25,87.82,103.92,22.69,N/A,Wood,Room Temperature
+9.14,92.77,104.68,27.72,N/A,Ceramic,Room Temperature
+51.69,42.54,134.19,20.98,N/A,Rubber,Room Temperature
+16.84,78.36,153.23,45.38,N/A,Silk,Room Temperature
+67.03,59.87,55.36,32.96,N/A,Ceramic,Freeze
+61.63,64.86,68.55,6.69,2025-10-13,Glass,Dry Place
+64.95,10.05,95.14,18.26,N/A,Rubber,Dry Place
+15.04,44.87,196.69,5.5,2026-08-19,Leather,Dry Place
+77.68,79.55,181.76,25.04,2025-06-29,Wood,Room Temperature
+50.53,72.7,31.66,33.77,N/A,Silk,Cool & Dry Place
+52.17,22.72,80.19,9.22,N/A,Silk,Refrigerated
+95.26,38.58,81.88,24.49,N/A,Ceramic,Away from Sunlight
+29.58,82.95,91.1,18.22,N/A,Plastic,Dry Place
+29.53,82.31,173.71,17.51,2026-07-23,Plastic,Refrigerated
+22.2,58.83,29.66,5.46,N/A,Leather,Away from Sunlight
+97.45,66.02,154.57,39.08,2026-05-24,Metal,Cool & Dry Place
+40.9,91.14,174.08,48.97,N/A,Leather,Cool & Dry Place
+27.0,29.11,34.08,2.18,2026-01-20,Rubber,Away from Sunlight
+57.4,7.43,56.97,17.62,N/A,Rubber,Away from Sunlight
+78.57,83.6,159.74,27.67,N/A,Metal,Cool & Dry Place
+66.22,10.41,53.79,19.21,2026-03-27,Wood,Away from Sunlight
+44.12,35.44,194.7,44.73,N/A,Cotton,Cool & Dry Place
+20.31,92.0,190.26,2.51,N/A,Silk,Refrigerated
+46.2,69.05,156.87,23.55,2026-06-11,Glass,Refrigerated
+11.4,19.31,142.46,11.49,2026-09-07,Silk,Dry Place
+84.44,51.48,5.58,33.66,2026-02-08,Silk,Cool & Dry Place
+85.23,26.87,195.92,5.75,2026-10-23,Metal,Refrigerated
+29.14,82.07,29.66,1.37,N/A,Plastic,Room Temperature
+38.9,7.2,101.12,28.3,2026-12-01,Rubber,Dry Place
+36.11,77.03,123.0,13.77,2026-06-01,Ceramic,Cool & Dry Place
+68.28,68.39,107.27,1.78,N/A,Glass,Cool & Dry Place
+35.98,69.57,81.38,4.34,2025-09-06,Silk,Room Temperature
+97.27,76.93,43.43,11.95,N/A,Leather,Away from Sunlight
+62.67,56.83,199.39,5.9,N/A,Wood,Freeze
+10.06,74.21,180.63,15.7,N/A,Rubber,Freeze
+51.37,16.27,19.44,29.09,2026-11-18,Ceramic,Room Temperature
+77.84,73.95,84.75,31.46,2026-06-30,Leather,Cool & Dry Place
+35.07,47.98,76.19,38.8,2025-11-03,Rubber,Refrigerated
+40.45,57.64,178.25,37.64,2026-03-14,Rubber,Freeze
+76.44,49.96,175.18,22.33,2026-09-19,Plastic,Room Temperature
+5.29,9.63,146.75,5.56,2027-01-12,Wood,Room Temperature
+5.59,32.97,69.49,28.01,N/A,Cotton,Freeze
+92.23,89.24,163.52,11.29,2026-06-11,Glass,Refrigerated
+19.35,45.54,57.29,9.15,N/A,Wood,Away from Sunlight
+97.53,51.53,15.04,25.7,2027-02-14,Ceramic,Dry Place
+14.5,7.68,102.04,38.4,N/A,Wood,Freeze
+60.78,56.12,96.44,18.28,2026-01-03,Leather,Room Temperature
+53.72,16.85,149.17,39.12,N/A,Wood,Room Temperature
+40.57,70.98,18.46,23.26,N/A,Silk,Freeze
+68.51,8.19,7.18,24.44,N/A,Wood,Freeze
+59.28,38.61,88.27,33.8,N/A,Glass,Cool & Dry Place
+48.77,84.22,182.25,20.46,N/A,Glass,Cool & Dry Place
+56.9,44.25,29.66,1.25,N/A,Glass,Dry Place
+83.94,87.57,120.81,1.25,N/A,Cotton,Room Temperature
+56.92,79.03,62.16,15.11,N/A,Silk,Dry Place
+32.19,81.99,118.38,43.69,2026-05-23,Plastic,Dry Place
+87.85,67.38,105.9,42.99,2026-01-14,Plastic,Refrigerated
+35.31,96.94,113.8,26.88,N/A,Silk,Freeze
+18.08,44.59,56.67,2.3,N/A,Leather,Room Temperature
+72.74,48.51,182.19,31.25,2026-12-24,Leather,Dry Place
+85.2,29.89,159.83,28.03,2025-07-23,Metal,Room Temperature
+36.64,40.65,103.47,35.13,2026-11-28,Rubber,Away from Sunlight
+40.44,46.21,83.68,8.56,2026-03-12,Silk,Refrigerated
+72.38,89.51,11.74,4.96,2025-11-28,Ceramic,Room Temperature
+82.53,28.35,69.57,30.28,N/A,Silk,Room Temperature
+40.64,63.98,67.71,0.11,N/A,Cotton,Cool & Dry Place
+33.1,78.77,99.04,4.96,N/A,Paper,Dry Place
+50.28,39.79,84.14,25.5,2026-08-07,Rubber,Dry Place
+31.32,12.77,107.99,18.11,N/A,Silk,Away from Sunlight
+85.58,19.77,133.64,40.73,2025-06-17,Plastic,Away from Sunlight
+84.57,90.17,29.92,3.79,N/A,Metal,Cool & Dry Place
+21.59,14.71,130.11,45.65,2025-09-30,Metal,Room Temperature
+20.9,28.59,95.38,11.63,N/A,Cotton,Room Temperature
+59.72,62.33,166.98,9.91,2025-11-07,Cotton,Cool & Dry Place
+73.82,29.55,171.5,9.53,2027-02-28,Plastic,Freeze
+7.62,60.46,99.36,31.11,2026-11-30,Glass,Room Temperature
+18.48,20.61,46.69,41.87,2025-10-11,Ceramic,Room Temperature
+68.96,77.07,55.39,48.61,2025-12-01,Ceramic,Room Temperature
+90.55,64.89,103.19,26.23,2025-07-16,Paper,Cool & Dry Place
+12.88,6.65,74.07,34.49,2026-01-25,Plastic,Dry Place
+92.28,6.95,26.05,49.15,N/A,Silk,Refrigerated
+9.05,46.87,57.94,19.06,N/A,Silk,Cool & Dry Place
