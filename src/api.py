@@ -1,63 +1,48 @@
-import os
-import joblib
-import pandas as pd
 from flask import Flask, request, jsonify
+import joblib
+import numpy as np
 
 app = Flask(__name__)
 
-# ✅ Define model path correctly
-model_path = os.path.join(os.path.dirname(__file__), "models", "packing_model.pkl")
-model_path = os.path.abspath(model_path)
+# Load the trained model
+model = joblib.load("models/volume_predictor.pkl")
 
-# ✅ Ensure the model file exists before loading
-if not os.path.exists(model_path):
-    raise FileNotFoundError(f"❌ Model file not found: {model_path}")
+@app.route('/')
+def index():
+    return "📦 AI Packaging Optimization API is running!"
 
-# ✅ Load the model safely
-try:
-    model = joblib.load(model_path)
-    print("✅ Model loaded successfully!")
-    print(f"🔍 Model expects {model.n_features_in_} features.")
-except Exception as e:
-    print(f"❌ Error loading model: {e}")
-    model = None  # Prevent crashes if model loading fails
-
-@app.route("/")
-def home():
-    return jsonify({"message": "Welcome to the Packing Prediction API!"})
-
-# ✅ Rename function to avoid conflict
-@app.route("/predict", methods=["POST"])
-def predict_material():
-    if model is None:
-        return jsonify({"error": "Model is not loaded properly."}), 500
-
+@app.route('/predict', methods=['POST'])
+def predict():
     try:
         data = request.get_json()
-        if not data:
-            return jsonify({"error": "No JSON payload received"}), 400
 
-        required_fields = ["weight", "length", "width", "height"]
-        if not all(field in data for field in required_fields):
-            return jsonify({"error": f"Missing required fields: {required_fields}"}), 400
+        # Required input features
+        required_fields = ['length_inc', 'width_inc', 'height_inc', 'weight_kg']
 
-        # ✅ Compute Volume
-        volume = data["length"] * data["width"] * data["height"]
+        # Check for missing fields
+        missing_fields = [field for field in required_fields if field not in data]
+        if missing_fields:
+            return jsonify({
+                'error': f"Missing fields in request: {', '.join(missing_fields)}"
+            }), 400
 
-        # ✅ Ensure input matches model's expected feature count
-        if model.n_features_in_ == 5:
-            features = [[data["weight"], data["length"], data["width"], data["height"], volume]]
-        elif model.n_features_in_ == 4:
-            features = [[data["weight"], data["length"], data["width"], data["height"]]]
-        else:
-            return jsonify({"error": f"Unexpected number of features: {model.n_features_in_}"}), 500
+        # Extract feature values
+        features = np.array([[ 
+            float(data['length_inc']),
+            float(data['width_inc']),
+            float(data['height_inc']),
+            float(data['weight_kg'])
+        ]])
 
-        prediction = model.predict(features)[0]
+        # Make prediction
+        predicted_volume = model.predict(features)[0]
 
-        return jsonify({"prediction": prediction})
+        return jsonify({
+            'predicted_volume_cm3': round(predicted_volume, 2)
+        })
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({'error': str(e)}), 500
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

@@ -1,88 +1,72 @@
 import sys
-import joblib
-import pandas as pd
-from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout
+import requests
+from PyQt5.QtWidgets import (
+    QApplication, QWidget, QVBoxLayout, QLabel,
+    QLineEdit, QPushButton, QMessageBox
+)
 
-# Load trained model
-model = joblib.load("F:\SaiU\semester 4\Sri\models\packing_model.pkl")
-
-class PackagingApp(QWidget):
+class VolumePredictorApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.initUI()
+        self.setWindowTitle("📦 AI Volume Predictor")
+        self.setGeometry(100, 100, 300, 250)
+        self.setup_ui()
 
-    def initUI(self):
-        self.setWindowTitle("AI Packaging Predictor")
-        self.setGeometry(100, 100, 300, 300)
-
-        # Labels and Inputs
-        self.weight_label = QLabel("Weight (kg):")
-        self.weight_input = QLineEdit()
-
-        self.length_label = QLabel("Length (cm):")
-        self.length_input = QLineEdit()
-
-        self.width_label = QLabel("Width (cm):")
-        self.width_input = QLineEdit()
-
-        self.height_label = QLabel("Height (cm):")
-        self.height_input = QLineEdit()
-
-        # Predict Button
-        self.predict_button = QPushButton("Predict Packaging")
-        self.predict_button.clicked.connect(self.predict_packaging)
-
-        # Result Label
-        self.result_label = QLabel("Prediction: ")
-
-        # Layout
+    def setup_ui(self):
         layout = QVBoxLayout()
-        layout.addWidget(self.weight_label)
-        layout.addWidget(self.weight_input)
-        layout.addWidget(self.length_label)
-        layout.addWidget(self.length_input)
-        layout.addWidget(self.width_label)
-        layout.addWidget(self.width_input)
-        layout.addWidget(self.height_label)
-        layout.addWidget(self.height_input)
+
+        self.length_input = self.create_input(layout, "Length (inches):")
+        self.width_input = self.create_input(layout, "Width (inches):")
+        self.height_input = self.create_input(layout, "Height (inches):")
+        self.weight_input = self.create_input(layout, "Weight (kg):")
+
+        self.predict_button = QPushButton("Predict Volume")
+        self.predict_button.clicked.connect(self.predict_volume)
         layout.addWidget(self.predict_button)
+
+        self.result_label = QLabel("")
         layout.addWidget(self.result_label)
 
         self.setLayout(layout)
 
-    def predict_packaging(self):
+    def create_input(self, layout, label_text):
+        label = QLabel(label_text)
+        layout.addWidget(label)
+        input_field = QLineEdit()
+        layout.addWidget(input_field)
+        return input_field
+
+    def predict_volume(self):
         try:
-            # Strip spaces and check if any field is empty
-            weight_text = self.weight_input.text().strip()
-            length_text = self.length_input.text().strip()
-            width_text = self.width_input.text().strip()
-            height_text = self.height_input.text().strip()
+            # Gather input values
+            data = {
+                "length_inc": float(self.length_input.text()),
+                "width_inc": float(self.width_input.text()),
+                "height_inc": float(self.height_input.text()),
+                "weight_kg": float(self.weight_input.text())
+            }
 
-            if not weight_text or not length_text or not width_text or not height_text:
-                raise ValueError("All fields must be filled")
+            # Send request to Flask API
+            response = requests.post("http://127.0.0.1:5000/predict", json=data)
 
-            weight = float(weight_text)
-            length = float(length_text)
-            width = float(width_text)
-            height = float(height_text)
-
-            # Compute volume
-            volume = length * width * height
-
-            # Create DataFrame with correct column names
-            input_data = pd.DataFrame([[weight, length, width, height, volume]],
-                                      columns=["Weight (kg)", "Length", "Width", "Height", "Volume"])
-
-            # Predict
-            prediction = model.predict(input_data)[0]
-            self.result_label.setText(f"Prediction: {prediction}")
+            if response.status_code == 200:
+                result = response.json()
+                volume = result['predicted_volume_cm3']
+                self.result_label.setText(f"📦 Predicted Volume: {volume} cm³")
+            else:
+                error = response.json().get('error', 'Unknown error')
+                self.show_error(f"API Error: {error}")
 
         except ValueError:
-            self.result_label.setText("Error: Enter valid numbers!")
+            self.show_error("❌ Please enter valid numbers in all fields.")
+        except Exception as e:
+            self.show_error(f"❌ Unexpected error: {str(e)}")
 
-# Run GUI
+    def show_error(self, message):
+        QMessageBox.critical(self, "Error", message)
+
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    window = PackagingApp()
+    window = VolumePredictorApp()
     window.show()
     sys.exit(app.exec_())

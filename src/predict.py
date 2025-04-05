@@ -1,39 +1,35 @@
-import joblib
 import pandas as pd
+import joblib
 
 # Load trained model
-model = joblib.load("F:/SaiU/semester 4/Sri/models/packing_model.pkl")
+model = joblib.load("models/packing_model.pkl")
 
-# ✅ Check how many features the model expects
-print(f"🔍 Model expects {model.n_features_in_} features.")
+def predict_custom():
+    print("📦 Enter product dimensions for package class prediction:")
 
-# Function to take user input and predict packaging
-def predict_packaging():
-    print("\n📦 Enter Product Details for Packaging Prediction:")
-    
-    weight = float(input("Enter Weight (kg): "))
-    length = float(input("Enter Length (cm): "))
-    width = float(input("Enter Width (cm): "))
-    height = float(input("Enter Height (cm): "))
-    
-    # Compute volume
-    volume = length * width * height
+    # User input
+    weight = float(input("Weight (kg): "))
+    length = float(input("Length (inc): "))
+    width = float(input("Width (inc): "))
+    height = float(input("Height (inc): "))
 
-    # ✅ Ensure input matches the model’s expected feature count
-    if model.n_features_in_ == 5:
-        input_data = pd.DataFrame([[weight, length, width, height, volume]],
-                                  columns=["Weight (kg)", "Length", "Width", "Height", "Volume"])
-    elif model.n_features_in_ == 4:
-        input_data = pd.DataFrame([[weight, length, width, height]],
-                                  columns=["Weight (kg)", "Length", "Width", "Height"])
-    else:
-        raise ValueError(f"❌ Unexpected number of features: {model.n_features_in_}")
+    # Feature engineering
+    volume_cm3 = length * width * height
+    density = weight / volume_cm3 if volume_cm3 != 0 else 0
 
-    # Predict packaging material
+    # Input DataFrame
+    input_data = pd.DataFrame([{
+        'weight': weight,
+        'length': length,
+        'width': width,
+        'height': height,
+        'volume_cm3': volume_cm3,
+        'density': density
+    }])
+
+    # Predict
     prediction = model.predict(input_data)[0]
-    
-    print(f"\n✅ Recommended Packaging Material: {prediction}")
+    print(f"\n✅ Predicted Package Class: **{prediction}**")
 
-# Run the prediction function
 if __name__ == "__main__":
-    predict_packaging()
+    predict_custom()

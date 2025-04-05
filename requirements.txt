@@ -7,3 +7,5 @@ seaborn
 gunicorn
 flask
 uvicorn
+streamlit
+requests
